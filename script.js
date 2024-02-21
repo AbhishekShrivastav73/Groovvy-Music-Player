@@ -10,7 +10,7 @@ let close = document.querySelector('#close');
 let nav = document.querySelector('#navigation');
 
 menu.addEventListener('click',function(){
-    nav.style.width = "70%"
+    nav.style.width = "50%"
 })
 close.addEventListener('click',function(){
     nav.style.width = '0';
